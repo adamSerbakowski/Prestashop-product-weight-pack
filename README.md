@@ -11,4 +11,6 @@ In situation, when Your cost of delivery is the same for a number of pieces of c
 - use delivery price based on weight
 - add a column to product table and insert for products a number of pieces in a package they are packed
 
+It can also be done with a custom product feature if You prefer not to change database structure.
+
 This code solved a problem with Prestashop delivery costs I've encountered, so maybe it will help someone else.
