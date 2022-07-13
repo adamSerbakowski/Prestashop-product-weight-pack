@@ -1,4 +1,4 @@
-# Prestashop 1.7 product weight pack
+# Prestashop 1.7 product weight for proucts packed ind bundles
 Modification for prestashop which enables counting delivery weight of products packed in bundles - for Dropshipping.
 
 Code enables to count weight of products in cart based on package weight rather than a single product. For example, if a certain product has a package containing four items, but you can sell any number of them you can use this code to optimize delivery cost in Your shop.
