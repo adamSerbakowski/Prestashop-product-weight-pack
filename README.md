@@ -7,7 +7,7 @@ Useful for Dropshipping deliveries, where you don't send the packages yourself.
 
 In situation, when Your cost of delivery is the same for a number of pieces of certain product, because of the size of package, this code will allow You to sell them with exactly the same delivery price in any number of pieces within pack capacity.
 
-For code to work you have to:
+# For code to work you have to:
 - use delivery price based on weight
 - add a column to product table and insert for products a number of pieces in a package they are packed
 
